@@ -1,0 +1,4 @@
+gradio
+transformers
+tensorflow
+gradio>=4.0.0
